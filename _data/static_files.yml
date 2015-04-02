@@ -293,11 +293,11 @@
 - path: gangsta/46-Ross-Boom.gif
   modified_time: 1427930940
   extname: .gif
-- path: giveafuck/#-of-people-who-give-a-fuck.gif
-  modified_time: 1427995673
-  extname: .gif
 - path: giveafuck/i-dont-give-a-fuck-pocahontas-gif.gif
   modified_time: 1427930940
+  extname: .gif
+- path: giveafuck/num-of-people-who-give-a-fuck.gif
+  modified_time: 1427995673
   extname: .gif
 - path: gtfo/batman-bomb.gif
   modified_time: 1427993951
@@ -595,6 +595,9 @@
   extname: .gif
 - path: surprised/blake-griffin.gif
   modified_time: 1427993100
+  extname: .gif
+- path: surprised/horrified-hippie.gif
+  modified_time: 1427930939
   extname: .gif
 - path: surprised/nph-spit.gif
   modified_time: 1427940982
