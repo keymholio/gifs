@@ -182,16 +182,19 @@
 - path: contempt/you-have-no-power.gif
   modified_time: 1427996183
   extname: .gif
-- path: crying/bugs-crying.gif
+- path: crying-sad/bugs-crying.gif
   modified_time: 1427930939
   extname: .gif
-- path: crying/cheetah.gif
+- path: crying-sad/cheetah.gif
   modified_time: 1426022762
   extname: .gif
-- path: crying/obama-crying.gif
+- path: crying-sad/obama-crying.gif
   modified_time: 1427930939
   extname: .gif
-- path: crying/yas.gif
+- path: crying-sad/rain.gif
+  modified_time: 1434326322
+  extname: .gif
+- path: crying-sad/yas.gif
   modified_time: 1429724887
   extname: .gif
 - path: dancing/baby-dancing-celebration.gif
@@ -269,11 +272,17 @@
 - path: done/hand-wipe.gif
   modified_time: 1427930939
   extname: .gif
+- path: done/well-there-it-is.gif
+  modified_time: 1434326156
+  extname: .gif
 - path: fail/cat-fail.gif
   modified_time: 1427930939
   extname: .gif
 - path: fail/ferret-fail.gif
   modified_time: 1427930939
+  extname: .gif
+- path: fail/robot-fail.gif
+  modified_time: 1434325950
   extname: .gif
 - path: fail/toy-plane.gif
   modified_time: 1427996128
@@ -284,8 +293,14 @@
 - path: food-drink/ferrell-spill.gif
   modified_time: 1432316572
   extname: .gif
+- path: food-drink/hydrating.gif
+  modified_time: 1434326184
+  extname: .gif
 - path: food-drink/kirby-inhaling-food.gif
   modified_time: 1428105537
+  extname: .gif
+- path: food-drink/kobe-five.gif
+  modified_time: 1434325989
   extname: .gif
 - path: food-drink/naked-gun-eating.gif
   modified_time: 1432316979
@@ -313,6 +328,9 @@
   extname: .gif
 - path: fu/get-the-eff-out.gif
   modified_time: 1427930940
+  extname: .gif
+- path: fu/i-dont-know-what-youre-saying-but-fu.gif
+  modified_time: 1434326096
   extname: .gif
 - path: fu/mr-bean.gif
   modified_time: 1427930940
@@ -407,6 +425,9 @@
 - path: headbang/bloodsport-band.gif
   modified_time: 1432317007
   extname: .gif
+- path: headbang/mosh.gif
+  modified_time: 1434325922
+  extname: .gif
 - path: headbang/talkshow-headbang.gif
   modified_time: 1427930940
   extname: .gif
@@ -452,6 +473,9 @@
 - path: kill-me/gun.gif
   modified_time: 1427941513
   extname: .gif
+- path: kill-me/sleep-pass-out.gif
+  modified_time: 1434325644
+  extname: .gif
 - path: lol/holding-back-lol.gif
   modified_time: 1427941621
   extname: .gif
@@ -461,6 +485,9 @@
 - path: lolwat/anteater-scares-kangaroo.gif
   modified_time: 1427930940
   extname: .gif
+- path: lolwat/bus-deer.gif
+  modified_time: 1434326057
+  extname: .gif
 - path: lolwat/conan-hulk-mad.gif
   modified_time: 1432316914
   extname: .gif
@@ -469,6 +496,9 @@
   extname: .gif
 - path: lolwat/flailing-arms-guys.gif
   modified_time: 1427930940
+  extname: .gif
+- path: lolwat/lars-von-trier-as-pie-too-many-cooks.gif
+  modified_time: 1434325761
   extname: .gif
 - path: lolwat/lolwut-rappers.gif
   modified_time: 1427930940
@@ -496,6 +526,9 @@
   extname: .gif
 - path: make-it-rain/post-its.gif
   modified_time: 1428076058
+  extname: .gif
+- path: mind-blown/doc-brown-they-found-me.gif
+  modified_time: 1434325690
   extname: .gif
 - path: mind-blown/magic.gif
   modified_time: 1427930941
@@ -527,6 +560,9 @@
 - path: no/dikembe-mutumbo-nope.gif
   modified_time: 1427930941
   extname: .gif
+- path: no/dr-evil-how-about-no.gif
+  modified_time: 1434326352
+  extname: .gif
 - path: no/jim-halpert-no.gif
   modified_time: 1427993135
   extname: .gif
@@ -544,6 +580,9 @@
   extname: .gif
 - path: no/really-hahaha-no.gif
   modified_time: 1427930941
+  extname: .gif
+- path: no/sloth-how-about-no.gif
+  modified_time: 1434325891
   extname: .gif
 - path: no/tracey-jordan-nope.gif
   modified_time: 1427930941
@@ -575,6 +614,9 @@
 - path: omg/ooooo.gif
   modified_time: 1427930941
   extname: .gif
+- path: omg/penny-omg-i-need-help.gif
+  modified_time: 1434326224
+  extname: .gif
 - path: omg/tmnt.gif
   modified_time: 1427993981
   extname: .gif
@@ -595,6 +637,9 @@
   extname: .gif
 - path: rage/head-bang-rage.gif
   modified_time: 1427930941
+  extname: .gif
+- path: rage/skeletor-rage.gif
+  modified_time: 1434326431
   extname: .gif
 - path: rage/tina-fey-rage.gif
   modified_time: 1427930941
@@ -649,6 +694,12 @@
   extname: .gif
 - path: ship/raccoon.gif
   modified_time: 1428095661
+  extname: .gif
+- path: shut-up/bitch-you-need-to-chill.gif
+  modified_time: 1434325811
+  extname: .gif
+- path: shut-up/fry-shut-up-and-take-my-money.gif
+  modified_time: 1434325857
   extname: .gif
 - path: shut-up/shut-up.gif
   modified_time: 1427930941
@@ -830,6 +881,9 @@
 - path: upset/whyyyyy.gif
   modified_time: 1427930941
   extname: .gif
+- path: web-dev/are-we-in-the-90s.gif
+  modified_time: 1434325732
+  extname: .gif
 - path: web-dev/bill-murray-problems.gif
   modified_time: 1432316477
   extname: .gif
@@ -914,6 +968,9 @@
 - path: will-ferrell/super-duper.gif
   modified_time: 1427930942
   extname: .gif
+- path: will-ferrell/that-is-dumb.gif
+  modified_time: 1434325595
+  extname: .gif
 - path: will-ferrell/what-is-this-amateur-hour.gif
   modified_time: 1430569358
   extname: .gif
@@ -934,6 +991,9 @@
   extname: .gif
 - path: wtf/buschemi-weird-shit.gif
   modified_time: 1427995189
+  extname: .gif
+- path: wtf/but-why.gif
+  modified_time: 1434327389
   extname: .gif
 - path: wtf/cats-da-fuq-is-this.gif
   modified_time: 1427995278
