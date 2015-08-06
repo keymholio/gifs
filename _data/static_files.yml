@@ -113,8 +113,17 @@
 - path: clap/nicki-enough.gif
   modified_time: 1436195225
   extname: .gif
+- path: clap/oh-we-are-clapping.gif
+  modified_time: 1438857491
+  extname: .gif
+- path: confident/charlie-am-I-the-messiah.gif
+  modified_time: 1438857549
+  extname: .gif
 - path: confident/fuck-yeah.gif
   modified_time: 1436195225
+  extname: .gif
+- path: confident/george-its-not-a-lie.gif
+  modified_time: 1438199516
   extname: .gif
 - path: confident/magic-trick.gif
   modified_time: 1436195225
@@ -124,6 +133,9 @@
   extname: .gif
 - path: confused/chloe-and-the-boys.gif
   modified_time: 1436195225
+  extname: .gif
+- path: confused/dorothy-brain.gif
+  modified_time: 1438857577
   extname: .gif
 - path: confused/eminem-headset.gif
   modified_time: 1436195225
@@ -907,6 +919,9 @@
   extname: .gif
 - path: threatening/jeffrey-ill-stab-you.gif
   modified_time: 1438198379
+  extname: .gif
+- path: threatening/jeffrey-silently-judging.gif
+  modified_time: 1438612582
   extname: .gif
 - path: threatening/scrubs-kill-you.gif
   modified_time: 1436195231
