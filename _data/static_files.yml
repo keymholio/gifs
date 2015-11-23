@@ -341,6 +341,9 @@
 - path: fail/hula-hoop-fail.gif
   modified_time: 1439297789
   extname: .gif
+- path: fail/johnny-five.gif
+  modified_time: 1448293026
+  extname: .gif
 - path: fail/robot-fail.gif
   modified_time: 1439297789
   extname: .gif
@@ -640,6 +643,9 @@
   extname: .gif
 - path: mind-blown/mind-blown2.gif
   modified_time: 1439297790
+  extname: .gif
+- path: nacho-libre/corn.gif
+  modified_time: 1448292887
   extname: .gif
 - path: nacho-libre/djes.gif
   modified_time: 1439297790
@@ -946,6 +952,9 @@
   extname: .gif
 - path: support/yup-stepbrothers.gif
   modified_time: 1439297791
+  extname: .gif
+- path: surprised/adele.gif
+  modified_time: 1448292924
   extname: .gif
 - path: surprised/baby.gif
   modified_time: 1439297791
