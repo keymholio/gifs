@@ -92,6 +92,9 @@
 - path: cats/shhhhhh.gif
   modified_time: 1439297787
   extname: .gif
+- path: cats/taylor-cat.gif
+  modified_time: 1449752899
+  extname: .gif
 - path: clap/applause.gif
   modified_time: 1439297787
   extname: .gif
@@ -136,6 +139,9 @@
   extname: .gif
 - path: confident/mcmahon-strut.gif
   modified_time: 1439297787
+  extname: .gif
+- path: confident/whos-number-1.gif
+  modified_time: 1449752861
   extname: .gif
 - path: confused/chloe-and-the-boys.gif
   modified_time: 1439297787
@@ -304,6 +310,9 @@
   extname: .gif
 - path: disgust/kobe-soft.gif
   modified_time: 1439297789
+  extname: .gif
+- path: disgust/no-tambourines.gif
+  modified_time: 1449752949
   extname: .gif
 - path: disgust/papers.gif
   modified_time: 1439297789
@@ -830,6 +839,9 @@
 - path: sarcasm/touched.gif
   modified_time: 1439297791
   extname: .gif
+- path: scared/andre-no.gif
+  modified_time: 1449760610
+  extname: .gif
 - path: scared/jim-chills.gif
   modified_time: 1439297791
   extname: .gif
@@ -1046,6 +1058,9 @@
 - path: upset/denied-information.gif
   modified_time: 1439297791
   extname: .gif
+- path: upset/jim-carey-oh-boy-here-we-go.gif
+  modified_time: 1449760325
+  extname: .gif
 - path: upset/jumps-out-window.gif
   modified_time: 1439297791
   extname: .gif
@@ -1061,14 +1076,20 @@
 - path: upset/staggering-office-incompetence.gif
   modified_time: 1439297791
   extname: .gif
+- path: upset/ugh-boring.gif
+  modified_time: 1449760024
+  extname: .gif
 - path: upset/what-is-this-amateur-hour.gif
   modified_time: 1439297791
   extname: .gif
 - path: upset/whyyyyy.gif
   modified_time: 1439297791
   extname: .gif
-- path: weather/cold.gif
+- path: weather/erin-cold.gif
   modified_time: 1446762066
+  extname: .gif
+- path: weather/hot-dog.gif
+  modified_time: 1449760174
   extname: .gif
 - path: web-dev/are-we-in-the-90s.gif
   modified_time: 1439297791
@@ -1118,8 +1139,14 @@
 - path: web-dev/QA-rejected.gif
   modified_time: 1439297791
   extname: .gif
+- path: web-dev/shift-shift-shift.gif
+  modified_time: 1449760220
+  extname: .gif
 - path: web-dev/shortcut.gif
   modified_time: 1446762066
+  extname: .gif
+- path: web-dev/solutioning.gif
+  modified_time: 1449760522
   extname: .gif
 - path: web-dev/somethings-fucky.gif
   modified_time: 1439297791
@@ -1129,6 +1156,9 @@
   extname: .gif
 - path: whatever/eye-roll.gif
   modified_time: 1439297791
+  extname: .gif
+- path: whatever/harden-please.gif
+  modified_time: 1449758604
   extname: .gif
 - path: whatever/jack-black-can-i-go-to-work-now.gif
   modified_time: 1439297791
